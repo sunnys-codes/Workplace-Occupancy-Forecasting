@@ -1,7 +1,7 @@
 # Workplace Occupancy Forecasting for Office Space Efficiency
 
 ## Project Overview
-This project aims to analyze and forecast workplace occupancy patterns to optimize office space usage and reduce operational costs. By leveraging data analytics and machine learning, we identify key trends and provide actionable insights for efficient office space management.
+This project aims to analyze and forecast workplace occupancy patterns to optimize office space usage and reduce operational costs. By leveraging data analytics and machine learning, I identify key trends and provide actionable insights for efficient office space management.
 
 ## Folder Structure
 
